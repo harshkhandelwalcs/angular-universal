@@ -1,7 +1,7 @@
 # Running Commands
 1) npm install
-2) ng build:ssr
-3) ng serve:ssr
+2) npm run build:ssr
+3) npm run serve:ssr
 
 open http://localhost:8100/
 # NgUniversal
